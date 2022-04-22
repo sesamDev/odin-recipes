@@ -1,0 +1,29 @@
+body{
+    border-radius: 10px;
+    background-color: rgb(211, 211, 211);
+    font-family: Helvetica, sans-serif;
+}
+.container.header{
+    height: 75px;
+    text-align: left;
+    background-color: #5656fa;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+}
+
+.container{
+    border-radius: 10px;
+    background-color: white;
+}
+
+img{
+    border-radius: 10px;
+    height: auto;
+    width: 400px;
+}
+
+.list{
+    list-style-type: none;
+    list-style-position: inherit;
+}
